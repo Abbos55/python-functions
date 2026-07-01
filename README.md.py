@@ -1,0 +1,33 @@
+# Python Functions
+
+## Muallif
+Abbosbek Odiljonov
+
+## Funksiyalar ro'yxati
+
+- hello()
+- kvadrat(a)
+- kub(a)
+- yigindi(a, b)
+- ayirma(a, b)
+- kopaytma(a, b)
+- bolish(a, b)
+- max_son(a, b)
+- min_son(a, b)
+- juftmi(a)
+- toqmi(a)
+- katta_harf(matn)
+- kichik_harf(matn)
+- teskari(matn)
+- uzunligi(matn)
+- yigindi_list(lst)
+- eng_katta(lst)
+- eng_kichik(lst)
+- uzunligi_list(lst)
+- faktorial(n)
+- daraja(a, b)
+- abs_son(a)
+
+## GitHub repository
+
+https://github.com/Abbos55/python-functions
